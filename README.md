@@ -23,4 +23,4 @@ Escribe una función que toma dos argumentos, el nombre de tu amiga y la cantida
 ### Descripcion:
 explicacion del diagrama de flujo
 
-![diagrama de flujo problema SCOREKEEPER](assets/img/diagrama-flujo-SCOREKEEPER.png)
+![diagrama de flujo problema SCOREKEEPER](assets/img/scorekeeper.png)
